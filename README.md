@@ -1,4 +1,4 @@
-# P119-29-03-2021-Delegate,Event,Generic type
+# P119-29-03-2021-Delegate,Event
 
 https://www.tutorialsteacher.com/csharp/csharp-func-delegate
 
